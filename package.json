@@ -1,0 +1,26 @@
+{
+  "name": "contact-management-system",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Contact Management System built with HTML5, CSS3, Vanilla JavaScript, Node.js, Express, and MySQL for MCA IWT Lab practicals.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "contact-management",
+    "crud",
+    "express",
+    "mysql",
+    "iwt-lab",
+    "mca"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
